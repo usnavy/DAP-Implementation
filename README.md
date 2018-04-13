@@ -3,3 +3,8 @@ The Digital Analytics Program (DAP) is a DoD-wide digital strategy directive tha
 
 As the Navy agency representative, the Chief of Naval Information (CHINFO) is the lead for Navy access. LCDR Shawn Eklund, the DAP POC, will help you with creating an account to view your statistical data.
 Please read more here: https://www.digitalgov.gov/services/dap/
+
+# DAP Training
+
+* DAP Analytics YouTube Playlist: https://www.youtube.com/watch?v=TQ2CXlEY3qw&list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P
+* DAP Best Practices link: https://www.digitalgov.gov/services/dap/dap-digital-metrics-guidance-and-best-practices/
