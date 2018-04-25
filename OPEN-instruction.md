@@ -28,9 +28,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   Note: If you have subdomains, the **Page Layouts** that you will be editing is all under your domain site
   
   3. In order to determine your page layout, please follow steps otherwise skip to step 4.
+     
      a. Click **Site Actions** on the Ribbon bar
+     
      b. Click **View All Site Content** on the drop-down menu
+     
      c. Under **Document Libraries**, click **Pages**
+     
      d. On this screen, you will see the list of all of your pages, and on the far right is a column named **Page Layouts** that will           let you know what **Page Layout** your pages are using.
   
   4. On the left side navigation menu, under **Site Objects**,” click **Page Layouts**.” Once you click on link, a window will open to the right. Please click on the page layout you want to add the code to.
