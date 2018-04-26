@@ -1,4 +1,4 @@
-|Account |GTM Code| Notes |
+|Account |GTM Code| Instructions |Notes |
 |--------|-------|-------|
 |BUPERS  |GTM-P62GQRF| NSTR |
 |Navy App Locker |GTM-WPKW6CG| NSTR |
