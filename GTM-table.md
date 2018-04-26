@@ -7,7 +7,7 @@
 |NavyLive	|GTM-K5NMNZF|
 |NEPA |GTM-TCNTSND|
 |NHHC	|GTM-KWHC5X5|
-|[OPEN](https://github.com/usnavy/DAP-Implementation/OPEN-instruction.md)	|GTM-54DBGZP| Genric public websites hosted via OPEN|
+|[OPEN](https://github.com/usnavy/DAP-Implementation/blob/master/OPEN-instruction.md)	|GTM-54DBGZP| Genric public websites hosted via OPEN|
 |USFFC	|GTM-N4Q8GZP|
 |Navy.mil |GTM-T46MLHC|
 |NETC | GTM-KGNMB5J|
