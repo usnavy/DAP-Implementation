@@ -1,7 +1,7 @@
 # Implementing DAP Code on OPEN
 
 ## OPEN DAP Code
-The code below is only an example. Google Tag Management (GTM) code is created by the BSO your command is assigned. To see a list of the of GTM code see XXXX. In oder to use 
+The Google Tag Management (GTM) code below should only be used for OPEN sites. In some cases the site is hosted in the OPEN enviroment but use a differnt (GTM) code. To ensure you are using the correct code refer to the GTM table to see if your command falls under another code implentation.   is created by the BSO your command is assigned. To see a list of the of GTM code see XXXX. In oder to use 
 
 ```javascript
 <!-- Google Tag Manager -->
@@ -9,10 +9,10 @@ The code below is only an example. Google Tag Management (GTM) code is created b
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-XXXXXX');</script>
+})(window,document,'script','dataLayer','GTM-54DBGZP');</script>
 <!-- End Google Tag Manager -->
 <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src=https://www.googletagmanager.com/ns.html?id=GTM-XXXXXX height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<noscript><iframe src=https://www.googletagmanager.com/ns.html?id=GTM-54DBGZP height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 ```
 
