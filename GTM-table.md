@@ -10,4 +10,4 @@
 |[OPEN](https://github.com/usnavy/DAP-Implementation/blob/master/OPEN-instruction.md)	|GTM-54DBGZP|[Instructions](https://github.com/usnavy/DAP-Implementation/blob/master/OPEN-instruction.md) |Public websites hosted via OPEN|
 |USFFC	|GTM-N4Q8GZP|
 |Navy.mil |GTM-T46MLHC|
-|NETC | GTM-KGNMB5J|
+|NETC | GTM-KGNMB5J| also on all Navy COOL, Navy College, USMAP and the Rate training manual sites|
