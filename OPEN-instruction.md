@@ -1,7 +1,7 @@
 # Implementing DAP Code on OPEN
 
 ## DAP Code
-The Google Tag Management (GTM) code below should only be used for OPEN sites. In some cases the site is hosted in the OPEN enviroment but uses a differnt (GTM) code. To ensure you are using the correct code refer to the [GTM table](https://github.com/usnavy/DAP-Implementation/blob/master/GTM-table.md) to see if your web site falls under another code implementation. 
+The Google Tag Management (GTM) code below should only be used for OPEN sites. In some cases a site is hosted in the OPEN enviroment but uses a differnt (GTM) code. To ensure you are using the correct code refer to the [GTM table](https://github.com/usnavy/DAP-Implementation/blob/master/GTM-table.md) to see if your web site falls under another code implementation. 
 
 ```javascript
 <!-- Google Tag Manager -->
