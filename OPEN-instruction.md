@@ -26,6 +26,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   
   2. Next, open your main domain site
   Note: If you have subdomains, the **Page Layouts** that you will be editing is all under your domain site
+  ![alt text](https://github.com/usnavy/DAP-Implantation/images/image1.png "Logo Title Text 1")
   
   3. In order to determine your page layout, please follow steps otherwise skip to step 4.
      
