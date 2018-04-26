@@ -1,5 +1,5 @@
 |Account | GTM Code|
-|--------|:-------:|
+|--------|-------|
 |BUPERS  |GTM-P62GQRF|
 |Navy App Locker |GTM-WPKW6CG|
 |Navy Public Web |GTM-MPGGMHQ|
@@ -10,5 +10,3 @@
 |OPEN	|GTM-54DBGZP|
 |USFFC	|GTM-N4Q8GZP|
 |Navy.mil |GTM-T46MLHC|
-
-
