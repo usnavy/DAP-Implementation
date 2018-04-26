@@ -5,8 +5,10 @@ As the Navy agency representative, the Chief of Naval Information (CHINFO) is th
 Please read more here: https://www.digitalgov.gov/services/dap/
 
 ## Navy Managment of DAP
-DAP implentation will be managed via Google Tag Manager (GTM). GTM allows for the  with specific and unique GTM code for each BSO 
-https://github.com/usnavy/DAP-Implementation/blob/master/GTM-table.md 
+DAP code is managed via Google Tag Manager (GTM). GTM is a tag management system that allows you to quickly and easily update tags and code snippets on a website without changing the code on each page.
+
+## Implementation Instructions
+In some cases implementation of GTM will depend on what BSO your site falls under. In other cases your site might not fall inside the BSO GTM account but stand on it's own. Here's a [list of commands and associated GTM code](https://github.com/usnavy/DAP-Implementation/blob/master/GTM-table.md).
 
 ## DAP Training
 
