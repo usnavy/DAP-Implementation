@@ -6,7 +6,7 @@ Please read more here: https://www.digitalgov.gov/services/dap/
 
 ## Navy Manament of DAP
 DAP implentation will be managed via Google Tag Manager (GTM). GTM allows for the  with specific and unique GTM code for each BSO 
-https://github.com/usnavy/DAP-Implantation/blob/master/GTM-table.md 
+https://github.com/usnavy/DAP-Implementation/blob/master/GTM-table.md 
 
 ## DAP Training
 
