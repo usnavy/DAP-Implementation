@@ -1,4 +1,4 @@
-|Account | GTM Code|
+|Account |GTM Code|
 |--------|-------|
 |BUPERS  |GTM-P62GQRF|
 |Navy App Locker |GTM-WPKW6CG|
