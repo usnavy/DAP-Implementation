@@ -1,7 +1,7 @@
 # Implementing DAP Code on OPEN
 
-## OPEN DAP Code
-The Google Tag Management (GTM) code below should only be used for OPEN sites. In some cases the site is hosted in the OPEN enviroment but use a differnt (GTM) code. To ensure you are using the correct code refer to the GTM table to see if your command falls under another code implentation.   is created by the BSO your command is assigned. To see a list of the of GTM code see XXXX. In oder to use 
+## DAP Code
+The Google Tag Management (GTM) code below should only be used for OPEN sites. In some cases the site is hosted in the OPEN enviroment but uses a differnt (GTM) code. To ensure you are using the correct code refer to the [GTM table](https://github.com/usnavy/DAP-Implementation/blob/master/GTM-table.md) to see if your web site falls under another code implementation. 
 
 ```javascript
 <!-- Google Tag Manager -->
@@ -17,7 +17,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 ```
 
 ### NOTE about Google Tag Manager
-
+If your Command wants to manage a GTM workspace, please request access to the U.S. Navy's GTM account. 
 
 ## Using SharePoint Designer
 *If you do not have SharePoint Designer, please reach out to your webmaster lead, who can insert the scripts using an enhanced text editor.*
