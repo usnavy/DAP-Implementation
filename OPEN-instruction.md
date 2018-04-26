@@ -25,6 +25,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   1. Ensure you are signed in to the author side on Internet Explorer. Then click the SharePoint Designer icon on your desktop to open the application.
   
   2. Next, open your main domain site
+  
   Note: If you have subdomains, the **Page Layouts** that you will be editing is all under your domain site
   
   ![alt text](https://github.com/usnavy/DAP-Implantation/blob/master/images/image-1.PNG "Logo Title Text 1")
