@@ -29,26 +29,42 @@ If your Command wants to manage a GTM workspace, please request access to the U.
   
   Note: If you have subdomains, the **"Page Layouts"** that you will be editing is all under your domain site:
   
-  ![alt text](https://github.com/usnavy/DAP-Implantation/blob/master/images/image-1.PNG "Logo Title Text 1")
+  ![alt text](https://github.com/Photomate78/DAP-Implementation/blob/master/images/image-1.PNG "Logo Title Text 1")
   
   
   3. In order to determine your page layout, please follow steps a. through d., otherwise skip to step 4.
      
      a. Click **"Site Actions"** on the Ribbon bar
      
+      ![alt text](https://github.com/Photomate78/DAP-Implementation/blob/master/images/image-2.PNG "Logo Title Text 2")
+     
      b. Click **"View All Site Content"** on the drop-down menu
+     
+      ![alt text](https://github.com/Photomate78/DAP-Implementation/blob/master/images/image-3.PNG "Logo Title Text 3")
      
      c. Under **"Document Libraries,"** click **"Pages"**
      
+     ![alt text](https://github.com/Photomate78/DAP-Implementation/blob/master/images/image-4.PNG "Logo Title Text 4")
+     
      d. On this screen, you will see the list of all of your pages, and on the far right is a column named **"Page Layouts"** that will let you know what **"Page Layout"** your pages are using.
+     
+     ![alt text](https://github.com/Photomate78/DAP-Implementation/blob/master/images/image-5.PNG "Logo Title Text 5")
   
   4. On the left side navigation menu, under **"Site Objects,"** click **"Page Layouts."** Once you click on link, a window will open to the right. Please click on the page layout you want to add the code to.
   
+  ![alt text](https://github.com/Photomate78/DAP-Implementation/blob/master/images/image-6.PNG "Logo Title Text 6")
+  
   5. When you click on the page layouts link, a new window will open. Under the customization section, please click the hyperlink that says **"Edit File."** Then, a dialogue box will open - click **"Yes"** to check out the file. 
+  
+  ![alt text](https://github.com/Photomate78/DAP-Implementation/blob/master/images/image-7.PNG "Logo Title Text 7")
   
   6. When you open the file, you will see views for "Design," "Split," and "Code." This is similar to other web design programs, such as Adobe Dreamweaver. In the **"Code View,"** insert the **"Google Tag Manager"** script after the C# SharePoint language at the very top, so it as high on the page as possible. 
   
+  ![alt text](https://github.com/Photomate78/DAP-Implementation/blob/master/images/image-8.PNG "Logo Title Text 8")
+  
   7. In the same page layout, find the first "article body" div class and insert the **"No Script" Google Tag Manager** in this area.
+  
+  ![alt text](https://github.com/Photomate78/DAP-Implementation/blob/master/images/image-7.PNG "Logo Title Text 9")
   
   8. Once complete, go to the top of the file, where you see the **tab** and right click to **"Save As."** and then click again and click **"Close"** to shut down the file. 
   
