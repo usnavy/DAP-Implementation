@@ -16,4 +16,4 @@ In some cases implementation of GTM will depend on what Budget Submitting Office
 * DAP Best Practices link: https://www.digitalgov.gov/services/dap/dap-digital-metrics-guidance-and-best-practices/
 
 ## Open Public Enterprise Navy (OPEN) Implementation Guidance
-Gudance provided is for sites utilizing OPEN's SharePoint: http://www.public.navy.mil/Pages/default.aspx
+For U.S. Navy sites utilizing OPEN's SharePoint as a content management system located here http://www.public.navy.mil/Pages/default.aspx, guidance is provided at the following link: https://github.com/usnavy/DAP-Implementation/blob/master/OPEN-instruction.md 
