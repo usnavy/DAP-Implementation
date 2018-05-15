@@ -64,7 +64,7 @@ If your Command wants to manage a GTM workspace, please request access to the U.
   
   7. In the same page layout, find the first "article body" div class and insert the **"No Script" Google Tag Manager** in this area.
   
-  ![alt text](https://github.com/Photomate78/DAP-Implementation/blob/master/images/image-7.PNG "Logo Title Text 9")
+  ![alt text](https://github.com/Photomate78/DAP-Implementation/blob/master/images/image-9.PNG "Logo Title Text 9")
   
   8. Once complete, go to the top of the file, where you see the **tab** and right click to **"Save As."** and then click again and click **"Close"** to shut down the file. 
   
