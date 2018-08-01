@@ -18,7 +18,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 ```
 
 ### NOTE about Google Tag Manager
-If your Command wants to manage a GTM workspace, please request access to the U.S. Navy's GTM account. 
+If your Command wants to manage a GTM workspace, please request access by sending an email with "[requesting U.S. Navy's GTM account.](mailto:chinfo-navywebmaster@navy.mil)" 
 
 ## Using SharePoint Designer to Add DAP Code to "Page Layouts"
 *If you do not have SharePoint Designer, please reach out to your webmaster lead, who can insert the scripts using an enhanced text editor.*
